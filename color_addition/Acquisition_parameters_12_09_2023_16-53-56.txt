@@ -1,0 +1,10 @@
+ONE-PIX acquisition_12_09_2023_16-53-56
+--------------------------------------------------------
+
+Acquisition method : FourierSplit
+Acquisition duration : 355.209265 s
+Spectrometer OceanInsight : FLMS12687
+Number of projected patterns : 1984
+Height of pattern window : 600 pixels
+Width of pattern window : 800 pixels
+Integration time : 10 ms
