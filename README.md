@@ -10,7 +10,7 @@ All ONE-PIX measurements contained in this repository are listed in the table be
 ### classical HSPI folder 
 
 |measure name|scene description|use case |spatial resolution (pix²)|pattern basis|
-|---|---|---|
+|---|---|---|---|---|
 |ammonite_fossil|hypercube of an ammonite fossil|paleontology|101x101|Fourier split|
 |Bonzai_NIR|hypercube of a bonsai acquired over a widened spectral range allowing the red edge to be seen|life science|61 x 61|Fourier split|
 |color_addition|hypercube of a sheet of A4 paper with a print of the additive synthesis rosette.|colorimetry,hyperspectral segmentation|31x31|Fourier split|
