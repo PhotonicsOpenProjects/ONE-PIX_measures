@@ -9,6 +9,11 @@ All ONE-PIX measurements contained in this repository are listed in the table be
 
 ### classical HSPI folder 
 
+<p align="center">
+<img src="img/classical_hspi.png" alt="ONE-PIX principle" width="500"/>
+</p>
+
+
 |measure name|scene description|use case |spatial resolution (pix²)|pattern basis|
 |---|---|---|
 |ammonite_fossil|hypercube of an ammonite fossil|paleontology|101x101|Fourier split|
