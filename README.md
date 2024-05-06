@@ -1,26 +1,26 @@
 # ONE-PIX measure 
 
-This repository contains measurement samples taken with the ONE PIX kit. several unconventional imaging techniques were used to construct this database.
-all datas can be loaded with the functions of the one pix kit. 
+This repository contains measurement samples taken with the ONE-PIX kit. Several unconventional imaging techniques were used to construct this database.
+Each data can be loaded with the functions from the ONE-PIX repository. 
 
-## content 
+## Content 
 
-All ONE-PIX measurements contained in this repository are listed in the table below:
+Each ONE-PIX measurements contained in this repository are listed in the table below:
 
-### classical HSPI folder 
+### Classical HSPI folder 
 
 <p align="center">
 <img src="img/classical_hspi.png" alt="ONE-PIX principle" width="500"/>
 </p>
 
 
-|measure name|scene description|use case |spatial resolution (pix²)|pattern basis|
+|Measure name|Scene description|Use case |Spatial resolution (pix²)|Pattern basis|
 |---|---|---|---|---|
-|ammonite_fossil|hypercube of an ammonite fossil|paleontology|101x101|Fourier split|
-|Bonzai_NIR|hypercube of a bonsai acquired over a widened spectral range allowing the red edge to be seen|life science|61 x 61|Fourier split|
-|color_addition|hypercube of a sheet of A4 paper with a print of the additive synthesis rosette.|colorimetry,hyperspectral segmentation|31x31|Fourier split|
-|Colored_squares|hypercube of colored squares printed on paper glued to a gray carpet|colorimetry,hyperspectral segmentation|101x101|Fourier split|
-|squash_leaf|squash leaf maintained with green and blue bugs having areas of necrosis and chlorosis.|life science agronomy|101 x101|Fourier split|
+|Ammonite_fossil|Hypercube of an ammonite fossil|Paleontology|101x101|Fourier split|
+|Bonzai_NIR|Hypercube of a bonsai acquired over a widened spectral range allowing the red edge to be seen|life science|61x61|Fourier split|
+|Color_addition|Hypercube of a sheet of A4 paper with a print of the additive synthesis rosette.|Colorimetry,hyperspectral segmentation|31x31|Fourier split|
+|Colored_squares|Hypercube of colored squares printed on paper glued to a gray carpet|colorimetry,Hyperspectral segmentation|101x101|Fourier split|
+|Squash_leaf|Squash leaf maintained with green and blue bugs having areas of necrosis and chlorosis.|Life science agronomy|101x101|Fourier split|
 
 ### HAS measure 
 
