@@ -1,0 +1,12 @@
+ONE-PIX_raw_acquisition_05_06_2024_13-53-17
+--------------------------------------------------------
+
+Imaging method: Addressing
+Acquisition duration: 1.711810 s
+Spectrometer OceanInsight : FLMS12687
+Camera: Picamera
+Number of projected patterns: 9
+Height of pattern window: 600 pixels
+Width of pattern window: 800 pixels
+Number of spectral measures per pattern: 5  
+Integration time: 4 ms
