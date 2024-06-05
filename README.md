@@ -25,7 +25,7 @@ Each ONE-PIX measurements contained in this repository are listed in the table b
 ### HAS measure 
 
 |Measure name|Scene description|Use case |segmentation method|clusters on rgb|
-|---|---|---|---|
+|---|---|---|---|---|
 |Chlorophytum_comosum| HAS measure of a spider plant (Chlorophytum_comosum)|Life science agronomy|kmeans segmentation|<p align="center"><img src="img/spider_plant.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Nicotiana_tabacum| HAS measure of a tobacco plant (Nicotiana_tabacum) with a upper view and a sgementation of each leaves|Life science agronomy|manual segmentation|<p align="center"><img src="img/tobacco_plant.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |the_black_island| HAS measure of book cover of the famous black island adventure of tintin by Hergé. |color analysis art analysis|kmeans segmentation|<p align="center"><img src="img/black_island.JPG" alt="ONE-PIX principle" width="500"/></p>|
@@ -34,7 +34,7 @@ Each ONE-PIX measurements contained in this repository are listed in the table b
 ### Spyrit :
 
 |Measure name|Scene description|Use case |Spatial resolution (pix²)|Pattern basis|rgb rendering|
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |Colored_squares (linear_reconstruction)|Hypercube of colored squares printed on paper glued to a gray carpet with linear reconstruction|colorimetry,Hyperspectral segmentation|32x32|Walsh Hadamard split|kmeans segmentation|<p align="center"><img src="img/linear_rec_spyrit.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Colored_squares (spyrit_reconstruction)|same measure than linear reconstruction but with CNN reconstruction|deeplearning|64x64|Walsh Hadamard split acquisition and CNN reconstruction|<p align="center"><img src="img/spyrit_rec_spyrit.JPG" alt="ONE-PIX principle" width="500"/></p>|
 
