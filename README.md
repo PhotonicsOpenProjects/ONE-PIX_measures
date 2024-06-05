@@ -35,6 +35,6 @@ Each ONE-PIX measurements contained in this repository are listed in the table b
 
 |Measure name|Scene description|Use case |Spatial resolution (pix²)|Pattern basis|rgb rendering|
 |---|---|---|---|---|---|
-|Colored_squares (linear_reconstruction)|Hypercube of colored squares printed on paper glued to a gray carpet with linear reconstruction|colorimetry,Hyperspectral segmentation|32x32|Walsh Hadamard split|kmeans segmentation|<p align="center"><img src="img/linear_rec_spyrit.JPG" alt="ONE-PIX principle" width="500"/></p>|
+|Colored_squares (linear_reconstruction)|Hypercube of colored squares printed on paper glued to a gray carpet with linear reconstruction|colorimetry,Hyperspectral segmentation|32x32|Walsh Hadamard split|<p align="center"><img src="img/linear_rec_spyrit.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Colored_squares (spyrit_reconstruction)|same measure than linear reconstruction but with CNN reconstruction|deeplearning|64x64|Walsh Hadamard split acquisition and CNN reconstruction|<p align="center"><img src="img/spyrit_rec_spyrit.JPG" alt="ONE-PIX principle" width="500"/></p>|
 
