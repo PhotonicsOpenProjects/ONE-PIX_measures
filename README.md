@@ -28,7 +28,7 @@ Each ONE-PIX measurements contained in this repository are listed in the table b
 |---|---|---|---|
 |Chlorophytum_comosum| HAS measure of a spider plant (Chlorophytum_comosum)|Life science agronomy|kmeans segmentation|
 |Nicotiana_tabacum| HAS measure of a tobacco plant (Nicotiana_tabacum) with a upper view and a sgementation of each leaves|Life science agronomy|manual segmentation|
-|the_black_island| HAS measure of book cover of the famous black island adventure of tintin by Hergé. |color analysis art analysis|manual segmentation|
+|the_black_island| HAS measure of book cover of the famous black island adventure of tintin by Hergé. |color analysis art analysis|kmeans segmentation|
 
 
 ### Spyrit :
