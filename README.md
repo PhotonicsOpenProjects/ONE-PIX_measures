@@ -1,11 +1,10 @@
 # ONE-PIX measure 
 
-This repository contains measurement samples taken with the ONE-PIX kit. Several unconventional imaging techniques were used to construct this database.
-Each data can be loaded with the functions from the ONE-PIX repository. 
+This repository houses measurement samples collected using the ONE-PIX kit. It features a variety of unconventional imaging techniques employed to build this comprehensive database. Each dataset can be easily loaded using the functions provided in the ONE-PIX repository.
 
 ## Content 
 
-Each ONE-PIX measurements contained in this repository are listed in the table below:
+Each ONE-PIX measurement contained in this repository is listed in the table below:
 
 ### Classical HSPI folder 
 
@@ -19,7 +18,7 @@ Each ONE-PIX measurements contained in this repository are listed in the table b
 |Ammonite_fossil|Hypercube of an ammonite fossil|Paleontology|101x101|Fourier split|<p align="center"><img src="img/fossile.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Bonzai_NIR|Hypercube of a bonsai acquired over a widened spectral range allowing the red edge to be seen|Life science|61x61|Fourier split|<p align="center"><img src="img/bonzai.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Color_addition|Hypercube of a sheet of A4 paper with a print of the additive synthesis rosette.|Colorimetry,hyperspectral segmentation|31x31|Fourier split|<p align="center"><img src="img/rosette.JPG" alt="ONE-PIX principle" width="500"/></p>|
-|Colored_squares|Hypercube of colored squares printed on paper glued to a gray carpet|colorimetry,Hyperspectral segmentation|101x101|Fourier split|<p align="center"><img src="img/carré.JPG" alt="ONE-PIX principle" width="500"/></p>|
+|Colored_squares|Hypercube of colored squares printed on paper glued to a gray carpet|Colorimetry,Hyperspectral segmentation|101x101|Fourier split|<p align="center"><img src="img/carré.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Squash_leaf|Squash leaf maintained with green and blue bugs having areas of necrosis and chlorosis.|Life science agronomy|101x101|Fourier split|<p align="center"><img src="img/feuille.JPG" alt="ONE-PIX principle" width="500"/></p>|
 
 ### HAS measure 
@@ -28,7 +27,7 @@ Each ONE-PIX measurements contained in this repository are listed in the table b
 |---|---|---|---|---|
 |Chlorophytum_comosum| HAS measure of a spider plant (Chlorophytum_comosum)|Life science agronomy|Kmeans segmentation|<p align="center"><img src="img/spider_plant.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Nicotiana_tabacum| HAS measure of a tobacco plant (Nicotiana_tabacum) with a upper view and a sgementation of each leaves|Life science agronomy|Manual segmentation|<p align="center"><img src="img/tobacco_plant.JPG" alt="ONE-PIX principle" width="500"/></p>|
-|the_black_island| HAS measure of book cover of the famous black island adventure of tintin by Hergé. |Color analysis art analysis|Kmeans segmentation|<p align="center"><img src="img/black_island.JPG" alt="ONE-PIX principle" width="500"/></p>|
+|The Black Island| HAS measure of book cover of the famous Black Island adventure of Tintin by Hergé. |Color analysis art analysis|Kmeans segmentation|<p align="center"><img src="img/black_island.JPG" alt="ONE-PIX principle" width="500"/></p>|
 
 
 ### Spyrit :
