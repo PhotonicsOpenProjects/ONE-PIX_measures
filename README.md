@@ -28,6 +28,7 @@ Each ONE-PIX measurement contained in this repository is listed in the table bel
 |Chlorophytum_comosum| HAS measure of a spider plant (Chlorophytum_comosum)|Life science agronomy|Kmeans segmentation|<p align="center"><img src="img/spider_plant.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |Nicotiana_tabacum| HAS measure of a tobacco plant (Nicotiana_tabacum) with a upper view and a sgementation of each leaves|Life science agronomy|Manual segmentation|<p align="center"><img src="img/tobacco_plant.JPG" alt="ONE-PIX principle" width="500"/></p>|
 |The Black Island| HAS measure of book cover of the famous Black Island adventure of Tintin by Hergé. |Color analysis art analysis|Kmeans segmentation|<p align="center"><img src="img/black_island.JPG" alt="ONE-PIX principle" width="500"/></p>|
+|PMS sight| HAS measurement of a red colored square target with changing PMS values |Color analysis art analysis|Labeleme segmentation|<p align="center"><img src="img/pms_sight.JPG" alt="ONE-PIX principle" width="500"/></p>|
 
 
 ### Spyrit :
